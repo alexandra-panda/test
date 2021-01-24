@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21f2b4e2-a64b-4fea-ae1b-cd7f5ba422cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/HouseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/HouseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Locator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Locator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/META-INF/lab05-skel.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/bin/META-INF/lab05-skel.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MoneyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MoneyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HouseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HouseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Locator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Locator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/triangle_classes/._Error1Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/triangle_classes/._Error2Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/triangle_classes/._Error3Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/triangle_classes/._Error4Triangle.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j1Em7wwn4ULHU8wgG8It3Fpf9F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BackEnd/Java/JavaCourse" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\Java\TestJunit\triangle_classes" />
+      <recent name="F:\Projects\Java\TestJunit" />
+      <recent name="F:\Projects\Java\TestJunit\src\triangle_classes" />
+      <recent name="F:\Projects\Java\TestJunit\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TriangleTest">
+    <configuration name="HouseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab05-skel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HouseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest.testEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab05-skel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MoneyTest" />
+      <option name="METHOD_NAME" value="testEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab05-skel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.testIsoscel1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab05-skel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleTest" />
+      <option name="METHOD_NAME" value="testIsoscel1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.testIsoscelButNotEquilateral" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab05-skel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleTest" />
+      <option name="METHOD_NAME" value="testIsoscelButNotEquilateral" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TriangleTest" />
+        <item itemvalue="JUnit.HouseTest" />
+        <item itemvalue="JUnit.TriangleTest.testIsoscelButNotEquilateral" />
+        <item itemvalue="JUnit.TriangleTest.testIsoscel1" />
+        <item itemvalue="JUnit.MoneyTest.testEquals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21f2b4e2-a64b-4fea-ae1b-cd7f5ba422cf" name="Default Changelist" comment="" />
+      <created>1602963353443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602963353443</updated>
+      <workItem from="1602963369771" duration="2516000" />
+      <workItem from="1603042291702" duration="1115000" />
+      <workItem from="1603043429305" duration="23000" />
+      <workItem from="1603043464291" duration="14340000" />
+      <workItem from="1603118093632" duration="662000" />
+      <workItem from="1603292148573" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="696" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603043228135">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="696" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/-1440.0.1440.870@0.0.1920.1050" timestamp="1603043228135" />
+    <state x="739" y="414" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603054340755">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="414" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050/-1440.0.1440.870@0.0.1920.1050" timestamp="1603054340755" />
+    <state x="-885" y="232" key="FileChooserDialogImpl" timestamp="1603118160344">
+      <screen x="-1440" y="0" width="1440" height="870" />
+    </state>
+    <state x="-885" y="232" key="FileChooserDialogImpl/0.0.1920.1050/-1440.0.1440.870@-1440.0.1440.870" timestamp="1603118160344" />
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/-1440.0.1440.870@0.0.1920.1050" timestamp="1603043487477" />
+    <state width="1921" height="360" key="GridCell.Tab.0.bottom" timestamp="1603058004645">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="360" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1440.0.1440.870@0.0.1920.1050" timestamp="1603058004645" />
+    <state width="1921" height="360" key="GridCell.Tab.0.center" timestamp="1603058004645">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="360" key="GridCell.Tab.0.center/0.0.1920.1050/-1440.0.1440.870@0.0.1920.1050" timestamp="1603058004645" />
+    <state width="1921" height="360" key="GridCell.Tab.0.left" timestamp="1603058004644">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="360" key="GridCell.Tab.0.left/0.0.1920.1050/-1440.0.1440.870@0.0.1920.1050" timestamp="1603058004644" />
+    <state width="1921" height="360" key="GridCell.Tab.0.right" timestamp="1603058004645">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="360" key="GridCell.Tab.0.right/0.0.1920.1050/-1440.0.1440.870@0.0.1920.1050" timestamp="1603058004645" />
+    <state width="1921" height="360" key="GridCell.Tab.1.bottom" timestamp="1603058004646">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="360" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1440.0.1440.870@0.0.1920.1050" timestamp="1603058004646" />
+    <state width="1921" height="360" key="GridCell.Tab.1.center" timestamp="1603058004646">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="360" key="GridCell.Tab.1.center/0.0.1920.1050/-1440.0.1440.870@0.0.1920.1050" timestamp="1603058004646" />
+    <state width="1921" height="360" key="GridCell.Tab.1.left" timestamp="1603058004646">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="360" key="GridCell.Tab.1.left/0.0.1920.1050/-1440.0.1440.870@0.0.1920.1050" timestamp="1603058004646" />
+    <state width="1921" height="360" key="GridCell.Tab.1.right" timestamp="1603058004646">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="360" key="GridCell.Tab.1.right/0.0.1920.1050/-1440.0.1440.870@0.0.1920.1050" timestamp="1603058004646" />
+    <state x="-1270" y="45" key="new project wizard" timestamp="1603118117818">
+      <screen x="-1440" y="0" width="1440" height="870" />
+    </state>
+    <state x="-1270" y="45" key="new project wizard/0.0.1920.1050/-1440.0.1440.870@-1440.0.1440.870" timestamp="1603118117818" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1603043961673">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050/-1440.0.1440.870@0.0.1920.1050" timestamp="1603043961673" />
+    <state x="616" y="178" width="670" height="676" key="search.everywhere.popup" timestamp="1603052146038">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="178" width="670" height="676" key="search.everywhere.popup/0.0.1920.1050/-1440.0.1440.870@0.0.1920.1050" timestamp="1603052146038" />
+  </component>
+</project>
